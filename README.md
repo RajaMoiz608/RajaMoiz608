@@ -1,7 +1,23 @@
-<h1 align="center">Hi 👋, I'm Raja Moiz Khalid</h1>
+<h1 align="center">Hi 👋, I'm Moiz Raja</h1>
+- 🔭 I’m currently working on [Real Time System ML](https://github.com/RajaMoiz608/City-Mind-Urban-Intelligence-System)
+
+- 🌱 I’m currently learning **Angular ,React ,ML**
+
+- 👨‍💻 All of my projects are available at [https://github.com/RajaMoiz608](https://github.com/RajaMoiz608)
+
+- 💬 Ask me about **ML and Full Stack Dev**
+
+- 📫 How to reach me **rajamoiz608@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GDkH4c00xwbGTDcV9IJpSwbz-wvCXQoa/view](https://drive.google.com/file/d/1GDkH4c00xwbGTDcV9IJpSwbz-wvCXQoa/view)
+
+- ⚡ Fun fact **I think I am extremly funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/moiz khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moiz khalid" height="30" width="40" /></a>
+<a href="https://fb.com/moiz raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moiz raja" height="30" width="40" /></a>
+<a href="https://instagram.com/raja_moiz608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raja_moiz608" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/raja_moiz 608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raja_moiz 608" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajamoiz608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajamoiz608" height="30" width="40" /></a>
 </p>
