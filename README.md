@@ -1,36 +1,375 @@
-<h1 align="center">Hi 👋, I'm Moiz Raja</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajamoiz608&label=Profile%20views&color=0e75b6&style=flat" alt="rajamoiz608" /> </p>
+<!-- =========================================================
+     RAJA MOIZ — GITHUB PROFILE README
+     GitHub: https://github.com/RajaMoiz608
+     ========================================================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajamoiz608" alt="rajamoiz608" /></a> </p>
+<!-- ======================= HERO ======================= -->
 
-- 🔭 I’m currently working on [Real Time System ML](https://github.com/RajaMoiz608/City-Mind-Urban-Intelligence-System)
+<div align="center">
 
-- 🌱 I’m currently learning **Angular ,React ,ML**
+# 👋 Hi, I'm **Moiz Raja**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RajaMoiz608](https://github.com/RajaMoiz608)
+### 🤖 ML Engineer • Full-Stack Developer • Competitive Programmer
 
-- 💬 Ask me about **ML and Full Stack Dev**
+I build **real-time intelligent systems**, full-stack applications, and ML-powered solutions that turn ideas into practical products.
 
-- 📫 How to reach me **rajamoiz608@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GDkH4c00xwbGTDcV9IJpSwbz-wvCXQoa/view](https://drive.google.com/file/d/1GDkH4c00xwbGTDcV9IJpSwbz-wvCXQoa/view)
-
-- ⚡ Fun fact **I am quiet good in competative programming and turn real time ideas into systems**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moiz khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moiz khalid" height="30" width="40" /></a>
-<a href="https://fb.com/moiz raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moiz raja" height="30" width="40" /></a>
-<a href="https://instagram.com/raja_moiz608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raja_moiz608" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/raja_moiz 608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raja_moiz 608" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajamoiz608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajamoiz608" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/RajaMoiz608">
+    <img src="https://img.shields.io/badge/GitHub-RajaMoiz608-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:rajamoiz608@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rajamoiz608-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/moiz-khalid">
+    <img src="https://img.shields.io/badge/LinkedIn-Moiz%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=RajaMoiz608&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajamoiz608&show_icons=true&locale=en&layout=compact" alt="rajamoiz608" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajamoiz608&show_icons=true&locale=en" alt="rajamoiz608" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajamoiz608&" alt="rajamoiz608" /></p>
+<!-- ======================= ABOUT ======================= -->
+
+## 🧠 About Me
+
+```text
+💻 Full-Stack Developer
+🤖 Machine Learning Enthusiast
+⚡ Real-Time Systems Builder
+🧩 Competitive Programmer
+🚀 Turning real-world ideas into working systems
+```
+
+* 🔭 Currently working on **Real-Time System ML** with **City-Mind**
+* 🌱 Currently learning **Angular, React & Machine Learning**
+* 💬 Ask me about **Machine Learning, Full-Stack Development & Problem Solving**
+* 🧠 I enjoy transforming real-time ideas into scalable software systems
+* ⚡ Competitive programming is one of my favorite ways to sharpen problem-solving skills
+* 📚 Always experimenting with new technologies and architectures
+
+---
+
+## 🚀 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Machine Learning
+
+Building intelligent systems capable of processing real-world data and producing useful predictions, insights and decisions.
+
+</td>
+<td width="50%">
+
+### 🌐 Full-Stack Engineering
+
+Designing complete applications from responsive frontends to APIs, databases, deployment and cloud infrastructure.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Real-Time Systems
+
+Exploring systems that process information continuously and transform live data into actionable intelligence.
+
+</td>
+<td width="50%">
+
+### 🧩 Competitive Programming
+
+Strengthening algorithms, data structures, optimization and analytical problem-solving.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌆 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/RajaMoiz608/City-Mind-Urban-Intelligence-System">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RajaMoiz608&repo=City-Mind-Urban-Intelligence-System&theme=tokyonight&hide_border=true" alt="City-Mind Urban Intelligence System"/>
+
+</a>
+
+### 🏙️ City-Mind — Urban Intelligence System
+
+**A real-time ML-driven system focused on transforming urban data into intelligent insights.**
+
+`Machine Learning` • `Real-Time Systems` • `Data Intelligence` • `Full Stack`
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css" alt="Programming Languages"/>
+</p>
+
+## 🌐 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,javascript" alt="Frontend Technologies"/>
+</p>
+
+## ⚙️ Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,oracle" alt="Backend and Databases"/>
+</p>
+
+## 🤖 Machine Learning & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="Machine Learning"/>
+</p>
+
+## ☁️ DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" alt="DevOps and Cloud"/>
+</p>
+
+## 🎨 Design & Other Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,unreal" alt="Design and Other Tools"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajaMoiz608&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="Moiz Raja's GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaMoiz608&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<!-- ======================= STREAK ======================= -->
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=RajaMoiz608&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/RajaMoiz608">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaMoiz608&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Moiz Raja's GitHub Activity Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# 🔥 Commit & Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/RajaMoiz608">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaMoiz608&theme=github-compact&hide_border=true&area=true" alt="Commit Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# ⭐ GitHub Overview
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 📦 Repositories
+
+**See all my projects**
+
+<a href="https://github.com/RajaMoiz608?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
+
+</td>
+
+<td align="center">
+
+### ⭐ Stars
+
+**Projects & open-source work**
+
+<a href="https://github.com/RajaMoiz608?tab=stars">
+<img src="https://img.shields.io/badge/My%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars"/>
+</a>
+
+</td>
+
+<td align="center">
+
+### 🔥 Streak
+
+**Keep building. Keep learning.**
+
+<img src="https://img.shields.io/badge/Consistency-Matters-orange?style=for-the-badge" alt="Consistency"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> **Note:** GitHub's public profile does not provide a simple static Markdown variable for "total repositories" or "stars received." Dynamic cards are used where possible so the numbers stay current rather than becoming hard-coded and outdated.
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RajaMoiz608&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🧩 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/RajaMoiz608/City-Mind-Urban-Intelligence-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RajaMoiz608&repo=City-Mind-Urban-Intelligence-System&theme=tokyonight&hide_border=true" alt="City-Mind"/>
+</a>
+
+<!--
+Add more projects here once you decide which repositories should be featured.
+
+Example:
+
+<a href="https://github.com/RajaMoiz608/REPOSITORY_NAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RajaMoiz608&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true" alt="Project"/>
+</a>
+-->
+
+</div>
+
+---
+
+# 💡 What I Like Building
+
+```text
+                    ┌─────────────────────────┐
+                    │      REAL-WORLD IDEA    │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │       DATA + LOGIC      │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │     MACHINE LEARNING    │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │     FULL-STACK SYSTEM   │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │     REAL-TIME IMPACT    │
+                    └─────────────────────────┘
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/RajaMoiz608">
+<img src="https://img.shields.io/badge/GitHub-RajaMoiz608-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/moiz-khalid">
+<img src="https://img.shields.io/badge/LinkedIn-Moiz%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/raja_moiz608">
+<img src="https://img.shields.io/badge/Instagram-raja__moiz608-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.facebook.com/moiz.raja">
+<img src="https://img.shields.io/badge/Facebook-Moiz%20Raja-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="https://codeforces.com/profile/raja_moiz608">
+<img src="https://img.shields.io/badge/Codeforces-raja__moiz608-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+<a href="https://leetcode.com/rajamoiz608">
+<img src="https://img.shields.io/badge/LeetCode-rajamoiz608-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+</div>
+
+---
+
+# 📄 Resume
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1GDkH4c00xwbGTDcV9IJpSwbz-wvCXQoa/view">
+
+<img src="https://img.shields.io/badge/📄%20View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Build systems that solve real problems."*
+
+<br/>
+
+**Thanks for visiting my profile! ⭐**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=RajaMoiz608&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile views"/>
+</p>
+
+</div>
