@@ -20,9 +20,9 @@ I build **real-time intelligent systems**, full-stack applications, and ML-power
   <a href="mailto:rajamoiz608@gmail.com">
     <img src="https://img.shields.io/badge/Email-rajamoiz608-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/moiz-khalid">
-    <img src="https://img.shields.io/badge/LinkedIn-Moiz%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/moiz-khalid-63644a337">
+  <img src="https://img.shields.io/badge/LinkedIn-Moiz%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
 <p>
@@ -312,8 +312,8 @@ Example:
 <img src="https://img.shields.io/badge/GitHub-RajaMoiz608-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/moiz-khalid">
-<img src="https://img.shields.io/badge/LinkedIn-Moiz%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/moiz-khalid-63644a337">
+  <img src="https://img.shields.io/badge/LinkedIn-Moiz%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/raja_moiz608">
