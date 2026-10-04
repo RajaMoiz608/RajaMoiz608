@@ -252,27 +252,6 @@ Strengthening algorithms, data structures, optimization and analytical problem-s
 
 ---
 
-# 🧩 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/RajaMoiz608/City-Mind-Urban-Intelligence-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RajaMoiz608&repo=City-Mind-Urban-Intelligence-System&theme=tokyonight&hide_border=true" alt="City-Mind"/>
-</a>
-
-<!--
-Add more projects here once you decide which repositories should be featured.
-
-Example:
-
-<a href="https://github.com/RajaMoiz608/REPOSITORY_NAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RajaMoiz608&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true" alt="Project"/>
-</a>
--->
-
-</div>
-
----
 
 # 💡 What I Like Building
 
