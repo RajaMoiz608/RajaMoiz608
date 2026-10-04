@@ -113,7 +113,33 @@ Strengthening algorithms, data structures, optimization and analytical problem-s
 </div>
 
 ---
+# 💡 What I Like Building
 
+```text
+                    ┌─────────────────────────┐
+                    │      REAL-WORLD IDEA    │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │       DATA + LOGIC      │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │     MACHINE LEARNING    │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │     FULL-STACK SYSTEM   │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │     REAL-TIME IMPACT    │
+                    └─────────────────────────┘
+```
 # 🛠️ Tech Stack
 
 ## 💻 Languages
@@ -253,33 +279,7 @@ Strengthening algorithms, data structures, optimization and analytical problem-s
 ---
 
 
-# 💡 What I Like Building
 
-```text
-                    ┌─────────────────────────┐
-                    │      REAL-WORLD IDEA    │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       DATA + LOGIC      │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │     MACHINE LEARNING    │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │     FULL-STACK SYSTEM   │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │     REAL-TIME IMPACT    │
-                    └─────────────────────────┘
-```
 
 ---
 
